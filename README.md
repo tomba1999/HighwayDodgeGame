@@ -4,6 +4,7 @@
 - [Installation and Setup](#installation-and-setup)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
+- [Design Process](#design-process)
 - [Challenges and Solutions](#challenges-and-solutions)
 - [Further Improvements](#further-improvements)
 - [Distribution of Work](#distribution-of-work)
@@ -253,6 +254,20 @@ By following these steps, you should be able to start playing "Highway Dodge Gam
 - **Key Functions**:
   - `pygame.mixer.music.load()`: Loads a music file to be played as the background track.
   - `pygame.mixer.Sound()`: Manages short sound effects, like collision sounds or power-up activations.
+
+## Design Process
+
+### Conceptualization and Style Selection
+The initial phase of the design process involved selecting an appropriate visual style that aligned with the simple and conceptual nature of the game while ensuring compatibility across various platforms. The team opted for a 16-bit retro style, reminiscent of classic games, which effectively supported the game’s basic gameplay mechanics. This style choice was inspired notably by the aesthetics of older video games and the vibrant, neon retro look of titles like *Hotline Miami*.
+
+### Tool Selection for Design Creation
+To facilitate the creation of pixel art graphics, the team evaluated various tools that would allow for easy conversion to commonly used image formats (JPGs, PNGs) and seamless collaboration. The decision was made to use **Piskel**, a web-based pixel art application. Piskel was chosen for its ability to save designs in its native format (.piskel) without losing quality or pixel integrity, enabling any team member to create or modify designs effortlessly.
+
+### Design Development
+Design development followed a structured approach, starting with the creation of vehicle sprites. The sequence of design was strategically planned: first the blue car, followed by the red, yellow, green, and purple cars. This progression ensured a diverse selection of colors for player choice and added variation to the game’s traffic. Subsequently, truck designs and the shield item were created. Additionally, the background GIF of the street, which adds a dynamic visual element to the game, was also designed using Piskel.
+
+### Integration into the Game
+Upon finalizing the designs, all assets including the background GIF were exported as JPG and PNG files and integrated into the game. This last step involved placing each design appropriately within the game environment to maintain aesthetic coherence and gameplay functionality.
 
 ## Challenges and Solutions
 
