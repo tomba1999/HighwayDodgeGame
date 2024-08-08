@@ -10,5 +10,5 @@ The "Highway Dodge Game" is an engaging arcade-style driving game designed to sh
 - **Power-Ups**: Collectible shields grant temporary invincibility, allowing players to survive otherwise lethal situations.
 - **Scoring System**: Distance traveled is converted into points, rewarding players for their endurance and maneuvering skills.
 - **Car Selection**: Before gameplay, players choose their vehicle, adding a personalized touch to the gaming experience.
-
-The game progresses in difficulty as the distance increases, introducing faster vehicles and more frequent obstacles to challenge the player's reaction time and strategic thinking.
+- **Progression**: The game's difficulty incrementally increases as the player progresses, with obstacles becoming more frequent.
+- **End-Game Condition**: The game ends when the player collides with an obstacle without a shield active. The final score is based on the distance traveled before the crash.
