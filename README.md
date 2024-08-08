@@ -180,7 +180,7 @@ To ensure that "Highway Dodge Game" runs smoothly, the following dependencies mu
 The game is packaged in a zip file for easy distribution. Follow these instructions to start playing:
 
 1. **Download the Game**:
-   - Download the zip file containing the game from the provided link or location.
+   - Download the zip file called "HighwayDodge.zip" containing the game. 
 
 2. **Extract the Zip File**:
    - Right-click on the downloaded file and select "Extract All…" or use your preferred archive manager. Ensure you note the folder where the files are being extracted.
@@ -305,3 +305,13 @@ The development of "Highway Dodge Game" was a collaborative effort, with team me
   - **William**: Responsible for leading the documentation efforts, William ensured that all aspects of the game and its development were well-documented. This included detailing the game's design, usage instructions, code structure, and the challenges and solutions encountered during development.
 
 This structure of team roles allowed for efficient project management and the effective integration of different areas of expertise, resulting in a cohesive and well-developed game.
+
+### Utilizing AI in Development
+Throughout the development of **Highway Dodge Game**, our team leveraged AI tools, including ChatGPT, to enhance our productivity and creativity. ChatGPT was instrumental in several aspects of the project:
+
+- **Brainstorming**: We utilized ChatGPT for brainstorming sessions, helping us generate innovative ideas for game features, design elements, and problem-solving strategies.
+- **Bug Fixing**: ChatGPT assisted in identifying and resolving bugs by suggesting potential causes and solutions, which significantly sped up our debugging process.
+- **Coding Assistance**: For repetitive and straightforward coding tasks, ChatGPT provided code snippets, allowing us to focus on more complex and creative aspects of the project development.
+
+The integration of AI into our workflow not only improved efficiency but also enhanced the overall quality of the game by enabling more focused and innovative development efforts.
+
