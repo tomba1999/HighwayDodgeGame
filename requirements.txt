@@ -1,0 +1,10 @@
+matplotlib==3.8.1
+nltk==3.8.1
+PyQt5==5.15.10
+textblob==0.17.1
+
+mysql-connector-python~=8.1.0
+
+streamlit~=1.36.0
+sympy~=1.13.0rc4
+pygame~=2.6.0
